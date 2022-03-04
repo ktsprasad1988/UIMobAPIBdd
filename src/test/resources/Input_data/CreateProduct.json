@@ -1,0 +1,19 @@
+{
+    "status": "abcd",
+    "classType": "Software only",
+    "type": {
+        "id": 1
+    },
+    "publicCloud": true,
+    "internetFacing": true,
+    "complianceRequired": true,
+    "confidentialityRequirement": "Not Defined",
+    "availabilityRequirement": "Low",
+    "availability": "None",
+    "attackingVector": "Network",
+    "name": "Testing_XXXXX",
+    "description": "Desc",
+    "slaTemplateId": null,
+    "confidentiality": "NONE",
+    "confidentialityOptions": ""
+}

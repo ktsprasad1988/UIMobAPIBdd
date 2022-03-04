@@ -1,0 +1,15 @@
+[
+    {
+        "websiteId": "777a0fd6-5892-4824-4bb3-ae1b01227493",
+        "websiteName": "Demo",
+        "websiteUrl": "http://demo.testfire.net/",
+        "product_name": "TestAutomationTry29",
+        "sub_product_name": "SubTestAuto29",
+        "environment": "Production",
+        "tool_name": "Netsparker",
+        "tag": "sample",
+        "version": "1",
+        "login_id": 817,
+        "toolType": "PULL"
+    }
+]

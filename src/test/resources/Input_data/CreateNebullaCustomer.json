@@ -1,0 +1,34 @@
+{
+	"abo_fid": false,
+	"stores": {
+		"type_third_usual": 7,
+		"num_third_usual": 1058,
+		"under_num_third_usual": 1058
+	},
+	"contact": {
+		"mobile_valid": true,
+		"mobile": "<<MOBILE>>",
+		"email_valid": true,
+		"mobile_country_code": "IN",
+		"email": "<<EMAILID>>"
+	},
+	"optin": {
+		"partner": false,
+		"decathlon": false
+	},
+	"billing_address": null,
+	"identity_individual": {
+		"member_type": 2,
+		"national_id": "",
+		"country_code": "IN",
+		"language_code": "EN",
+		"birthdate": null,
+		"id_person": null,
+		"prefix": "",
+		"surname": "<<LASTNAME>>",
+		"name": "<<FIRSTNAME>>",
+		"sexe": 1,
+		"name2": "",
+		"national_id_type": ""
+	}
+}

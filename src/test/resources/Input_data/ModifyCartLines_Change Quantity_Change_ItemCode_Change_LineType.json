@@ -1,0 +1,10 @@
+{
+    "appBuildVersion": "2.0",
+    "cartLine": {
+        "cartLineId": "ca8cd721-876b-4740-9eb3-05920c5d6435",
+        "itemCode": 555089,
+        "lineType": "DELIVERY",
+        "quantity": 2
+    },	
+    "channel": "WEB"
+}

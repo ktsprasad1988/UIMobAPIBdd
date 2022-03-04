@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" thread-count="2" parallel="tests">
+	<test name="Android native app test on Android 10">
+		<parameter name="platform" value="Android 10"/>
+        <parameter name="udid" value="emulator-5554"/>
+        <parameter name="systemPort" value="4723"/>
+        <parameter name="deviceName" value="Nexus 5"/>
+        	<classes>
+			<!-- <class name="AndroidTestCases.AndroidNativeParallelTests" /> -->
+			<class name="com.dc.bdd.common.runner_files.MobileRunner" />
+		</classes>
+	</test>
+</suite> <!-- Suite -->

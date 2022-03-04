@@ -1,0 +1,33 @@
+{
+    "environments": [
+        {
+            "name": "Production",
+            "branch": "master"
+        },
+        {
+            "name": "Staging",
+            "branch": "master"
+        }
+    ],
+    "engineeringOwner": null,
+    "securityOwner": null,
+    "businessOwner": null,
+    "complianceOwner": null,
+    "supportOwner": null,
+    "confidentialityRequirement": "Not Defined",
+    "availabilityRequirement": "Low",
+    "availability": "None",
+    "attackingVector": "Network",
+    "publicCloud": true,
+    "internetFacing": true,
+    "product": {
+        "id": 1360
+    },
+    "name": "Sub_TestX",
+    "description": "Desc",
+    "types": [],
+    "programmingLanguage": "",
+    "technologies": "",
+    "confidentiality": "NONE",
+    "confidentialityOptions": ""
+}

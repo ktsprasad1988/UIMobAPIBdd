@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" thread-count="1" parallel="tests">
+<!--  	<test name="IOS native app test on Iphone 7">
+		 <parameter name="platform" value="iOS"/>
+        <parameter name="udid" value="04f84258f2bda5b152d08fc898c4a5698c2885ea"/>
+        <parameter name="systemPort" value="4723"/>
+        <parameter name="deviceName" value="iPhone 7"/>
+        <parameter name="version" value="13.6.1"/>
+        	<classes>
+			
+			<class name="CucumberRunner.MobileRunner" />
+		</classes>
+	</test> -->
+	<test name="IOS native app test on Iphone 8 Simulator">
+		 <parameter name="platform" value="iOS"/>
+        <parameter name="udid" value="596983C6-6624-484A-8474-E3DC9C5CF03A"/>
+        <parameter name="deviceName" value="iPhone 8 Plus (13.6)"/>
+        <parameter name="version" value="13.6"/>
+        <parameter name="systemPort" value="4723"/>
+        	<classes>
+			<!-- <class name="AndroidTestCases.AndroidNativeParallelTests" /> -->
+			<class name="com.dc.bdd.common.runner_files.MobileRunner" />
+		</classes>
+	</test>
+	
+	
+
+</suite> <!-- Suite -->

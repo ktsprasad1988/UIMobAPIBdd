@@ -1,0 +1,21 @@
+{
+    "appBuildVersion": "V3.1.0",
+    "cartLines": [
+       
+        {
+            "itemCode": "1",
+            "lineType": "D",
+            "modelCode": 2, 
+            "quantity": 1
+        },
+        {
+            "itemCode": "2",
+            "lineType": "D",
+            "modelCode": 2, 
+            "quantity": 1
+        }
+    ],
+    "catchment": null,
+    "channel": "I",
+    "postalCode": 560037
+}

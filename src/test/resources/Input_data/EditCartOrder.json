@@ -1,0 +1,21 @@
+{
+    "appBuildVersion": "v4.542",
+    "cartLines": [
+       
+        {
+            "itemCode": 555089,
+            "lineType": "DELIVERY",
+            "modelCode": 8326403, 
+            "quantity": 1
+        },
+        {
+            "itemCode": 44974,
+            "lineType": "DELIVERY",
+            "modelCode": 8304742, 
+            "quantity": 1
+        }
+    ],
+    "catchment": null,
+    "channel": "IOS",
+    "postalCode": 560037
+}
